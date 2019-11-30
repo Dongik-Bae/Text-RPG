@@ -10,7 +10,13 @@
 <img src="/img/img3.png" width="100%" height="100%">
 <img src="/img/img4.png" width="100%" height="100%">
 <img src="/img/img5.png" width="100%" height="100%">
+
 ## 2. 플로우차트
 ![flowchart](img/Flowchart.PNG)
+
+
+
+
 ## 3. 구성
 ![function](./img/Function.PNG)
+Hunt 안에 존재하는 메인 함수에서 프로그램이 구동된다. main 함수 안에는 while(1)문이 존재하며, 조건을 달성할 때까지 내장된 기능을 반복한다. 플로우차트에서 본 것처럼, 사용자의 입력에 따라 여러가지 행동을 할 수 있다.
